@@ -1,4 +1,4 @@
-// # Scala For The Impatient -- Chapter 4
+// # Scala For The Impatient -- Chapter 5
 
 // ## Exercise 1
 // > Improve the Counter class in Section 5.1 so that it doesn’t turn negative at Int.MaxValue.
